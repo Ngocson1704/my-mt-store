@@ -1,10 +1,10 @@
 [
   {
-    "name": "Robot Gold V1",
+    "name": "Trade Assistant Pro MT5",
     "ver": "1.0",
     "type": "Expert",
     "desc": "Robot chuyên đánh vàng khung M15, lợi nhuận ổn định.",
-    "url": "LINK_TAI_FILE_EX5_O_DAY"
+    "url": "https://github.com/Ngocson1704/my-mt-store/raw/refs/heads/main/Trade%20Assistant%20Pro%20MT5.ex5"
   },
   {
     "name": "Super Signal",
@@ -20,4 +20,5 @@
     "desc": "Thư viện lọc tin tức cần thiết cho Robot Gold.",
     "url": "LINK_TAI_FILE_DLL_O_DAY"
   }
+
 ]
