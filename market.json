@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Robot Gold V1",
+    "ver": "1.0",
+    "type": "Expert",
+    "desc": "Robot chuyên đánh vàng khung M15, lợi nhuận ổn định.",
+    "url": "LINK_TAI_FILE_EX5_O_DAY"
+  },
+  {
+    "name": "Super Signal",
+    "ver": "2.5",
+    "type": "Indicator",
+    "desc": "Chỉ báo mũi tên không vẽ lại (No repaint).",
+    "url": "LINK_TAI_FILE_EX4_O_DAY"
+  },
+  {
+    "name": "News Filter Lib",
+    "ver": "1.0",
+    "type": "Library",
+    "desc": "Thư viện lọc tin tức cần thiết cho Robot Gold.",
+    "url": "LINK_TAI_FILE_DLL_O_DAY"
+  }
+]
