@@ -5,9 +5,26 @@
     "type": "Expert",
     "desc": "Robot hỗ trợ người dùng tính toán rủi ro trước khi vào lệnh và nhiều tính năng khác.",
     "url": "https://github.com/Ngocson1704/my-mt-store/raw/refs/heads/main/Trade%20Assistant%20Pro%20MT5.ex5"
+  },
+   {
+    "name": "Dll Kích Hoạt Bản Quyền MT5",
+    "ver": "1.0",
+    "type": "Libraries",
+    "desc": "Dll Kích Hoạt Bản Quyền MT5.",
+    "url": "https://github.com/Ngocson1704/my-mt-store/raw/refs/heads/main/MyDownloader64.dll"
+  },
+   {
+    "name": "Dll Kích Hoạt Bản Quyền MT5",
+    "ver": "1.0",
+    "type": "Libraries",
+    "desc": "Dll Kích Hoạt Bản Quyền MT4.",
+    "url": "https://github.com/Ngocson1704/my-mt-store/raw/refs/heads/main/MyDownloader32.dll"
   }
 
+
+
 ]
+
 
 
 
