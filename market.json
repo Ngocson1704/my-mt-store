@@ -1,26 +1,13 @@
 [
   {
     "name": "Trade Assistant Pro MT5",
-    "ver": "1.0",
+    "ver": "2.0",
     "type": "Expert",
     "desc": "Robot hỗ trợ người dùng tính toán rủi ro trước khi vào lệnh và nhiều tính năng khác.",
     "url": "https://github.com/Ngocson1704/my-mt-store/raw/refs/heads/main/Trade%20Assistant%20Pro%20MT5.ex5"
   },
-  {
-  "name": "Titan Ladder",
-  "ver": "2.0",
-  "type": "Expert",
-  "desc": "EA giao dịch lưới (Grid) chiến thuật ngược xu hướng dành cho tài khoản Hedging. Phiên bản nâng cấp tích hợp cơ chế 'High Volume Strategy' độc quyền (kết hợp song song Market & Limit), hệ thống tự động khôi phục lệnh thông minh và tối ưu hóa khớp lệnh chuẩn xác, loại bỏ hoàn toàn lỗi Spam lệnh và Invalid Price.",
-  "url": "https://example.com/path/to/Titan_Ladder_v2.ex5"
-},
-  {
-    "name": "News Filter Lib",
-    "ver": "1.0",
-    "type": "Library",
-    "desc": "Thư viện lọc tin tức cần thiết cho Robot Gold.",
-    "url": "LINK_TAI_FILE_DLL_O_DAY"
-  }
 
 ]
+
 
 
